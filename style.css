@@ -1,0 +1,11 @@
+.container {
+  max-width: 730px;
+  /* border: 2px solid orange; */
+  /* background-color: black; */
+}
+h4 {
+  font-size: 15px;
+}
+a {
+  font-size: 14px;
+}
