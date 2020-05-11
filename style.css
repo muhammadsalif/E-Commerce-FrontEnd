@@ -17,6 +17,10 @@ a {
   font-size: 14px;
   font-weight: bold;
 }
+.my-image {
+  width: 11%;
+  height: 21%;
+}
 /* .logo {
   padding: 0px;
 } */
